@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profiles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_of_registered_users">List of registered users</string>
+    <string name="incorrect_number_or_password">Incorrect number or password</string>
+
+</resources>
